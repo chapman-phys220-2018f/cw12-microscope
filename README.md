@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 12
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Enea Dodi & Jack Savage**
 
 ## Specification
 
@@ -28,7 +28,7 @@ Your homework this week will be to finish this classwork assignment, and then us
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
 
-**CHANGEME**
+**Because of the similarity with the final, I decided to attempt to solve the problem similarily to how you solved the final, cutting down the processing time significantly. My implementation didn't work out, so I resort sadly to the old method of creating the dataframe. PS, if there is any relationship between the graphs and large interstellar bodies, I would like to know**
 
 ## Honor Pledge
 
@@ -39,4 +39,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Enea Dodi**
